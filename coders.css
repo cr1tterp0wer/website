@@ -1,0 +1,26 @@
+h1 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+th, td {
+    text-align:     left;
+    vertical-align: text-top;
+}
+
+table.upcoming td {
+    font-size : 120%;
+}
+
+#descr {
+    margin-top: 0px;
+    font-style: italic;
+}
+
+a.descr:link    { text-decoration: none; }
+a.descr:visted  { text-decoration: none; }
+a.descr:hover   { text-decoration: underline; }
+a.descr:active  { text-decoration: none; }
+
+
+
